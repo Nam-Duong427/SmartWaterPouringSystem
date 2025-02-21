@@ -1,4 +1,4 @@
-# SmartWaterPouringSystem 
+# Smart Water Pouring System 
 
 The Smart Water Pouring System optimizes water usage with an Arduino Uno, Bluetooth module, YF-S201 flow sensor, LCD, relay, and water pump. It enables precise, remote-controlled dispensing via a mobile app, ensuring efficiency and convenience. Real-time monitoring helps users track flow rates and total volume. Designed for sustainability, it reduces waste and supports responsible water management.
 
